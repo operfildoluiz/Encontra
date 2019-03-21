@@ -22,3 +22,4 @@ Em poucos minutos, a informação estará disseminada na rede, aumentando as cha
 - [ ] Encontra para Discord
 - [ ] Encontra para Facebook
 - [ ] Encontra para Twitter
+- [ ] Encontra para Rocket.Chat
